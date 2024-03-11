@@ -1,4 +1,4 @@
-### Driven by new experiences and learning ⚡
+### Driven by new experiences and continuous learning ⚡
 
 ### Some of my skills 
 <p align="left">
