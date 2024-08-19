@@ -1,6 +1,16 @@
-### Driven by new experiences and continuous learning ⚡
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" /> Hey there!
 
-### Some of my skills 
+Welcome to my GitHub corner, where code comes to life <s>(sometimes not)</s> and bugs are just misunderstood features.
+
+
+### <h2>🚀 What I’m up to</h2>
+- 🌱 Currently diving deep into the world of back-end development and learning data science.
+- 🔭 Working on some personal top-secret projects that may or may not involve a lot of coffee.
+- 👯 Open to collaboration on projects that spark curiosity and creativity.
+- 🤔 Always on the lookout for new challenges.
+
+
+### <h2>🔧 Some of my skills</h2>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -11,6 +21,13 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+
+### <h2>📫 How to reach me</h2>
+- You can find me on [LinkedIn](https://www.linkedin.com/alexandre-kira). Let's connect!
+
+### <h2>🤡 Random joke</h2>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 <!-- Stats -->
